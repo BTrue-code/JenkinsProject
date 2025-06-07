@@ -10,7 +10,7 @@ public class Main {
         System.out.println("Hello, World!");
         Thread.sleep(2000);
         }
-
+        System.out.println("Thank you Jenkins for running this job!");
     }
 
 }
